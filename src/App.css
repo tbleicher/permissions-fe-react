@@ -1,0 +1,20 @@
+Body {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid grey;
+  margin-top: 10px;
+  table-layout: fixed;
+}
+
+td,
+th {
+  border: 1px solid grey;
+  padding: 5px 10px;
+}
+
+.App {
+  margin: 20px;
+}
